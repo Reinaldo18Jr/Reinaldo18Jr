@@ -1,5 +1,4 @@
 # **Bem vindo(a)**
----
 
 ![https://gifs.alphacoders.com/gifs/view/36007](https://giffiles.alphacoders.com/360/36007.gif)
 
