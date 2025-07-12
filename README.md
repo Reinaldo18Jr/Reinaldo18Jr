@@ -2,11 +2,11 @@
 
 ![https://gifs.alphacoders.com/gifs/view/36007](https://giffiles.alphacoders.com/360/36007.gif)
 
-- 💻 ## **Software Developer**
+- 💻 **Software Developer**
 
-  - 📚 ### _Análise e Desenvolvimento de Sistemas_
-  - ♨️ ### _Java_
-  - 🐍 ### _Python_
+  - 📚 _Análise e Desenvolvimento de Sistemas_
+  - ♨️ _Java_
+  - 🐍 _Python_
 
 ---
 
